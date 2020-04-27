@@ -102,7 +102,7 @@ ggplot(data, aes(time, Blood_Glucose, color=dose, group=dose, "Control","Low","H
   geom_point(size=2)
 
 ```
-
+![image](https://user-images.githubusercontent.com/64437786/80414645-5aa28780-889f-11ea-91d8-75f2950de570.png)
 
 ## Task 9: *Monte Carlo Analysis*
 
