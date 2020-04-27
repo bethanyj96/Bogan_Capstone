@@ -131,3 +131,6 @@ pval <- replicate(
 pwr.pct <- sum(pval<0.05)/sims*100
 pwr.pct
 ```
+80
+
+**The percent power analysis that was generated from my Monte Carlo Analysis, explains that the results of my experiment were statistically significant.**
